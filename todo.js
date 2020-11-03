@@ -1,4 +1,3 @@
-
 function Form_Processes() {
 
 	this.count = 0;
