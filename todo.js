@@ -1,4 +1,3 @@
-
 function Form_Processes() {
 
 	this.count = 0;
@@ -27,7 +26,7 @@ function Form_Processes() {
 			itemToRemove.outerHTML = "";
 			this.count -= 1;
 		} else {
-			console.log('ERROR: Not Enough Child Elements to remove (script.js:25)');
+			console.log('ERROR');
 		}
 	}
 
